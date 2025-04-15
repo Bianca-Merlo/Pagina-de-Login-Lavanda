@@ -1,0 +1,69 @@
+@charset "UTF-8";
+
+
+    
+
+
+
+* { font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+margin: 0px;
+padding: 0px;}
+
+
+body{ 
+background-color: rgb(219, 184, 226);   
+}
+
+section{ 
+
+    background-color: rgba(253, 241, 255, 0.877);
+    display: block;
+    width: 400px;
+    height: 450px;
+    margin: auto;
+    border-radius: 15px;
+    margin-top:15vh;
+    box-shadow: 2px 2px rgba(233, 119, 233, 0.493);
+    
+}
+
+
+p#top{ padding-top: 30px;}
+
+p{ text-align: center;
+padding:10px;
+text-shadow: 1px 1px rgba(255, 144, 255, 0.616);}
+
+h1{ text-align: center;
+padding-top: 30px;
+padding-bottom: 30px;
+color: rgb(96, 62, 128);}
+
+input{ padding: 5px;
+border-radius: 4px;
+color: rgb(29, 0, 56);}
+
+section > div#imagem { 
+    display: block;
+    background: rgb(251, 146, 255) url(campo-de-lavanda-isolado-em-uma-ilustracao-vetorial-de-fundo-branco_656966-84.avif);
+    width: 400px;
+    height: 80px;
+    border-radius: 15px;
+    background-repeat: no-repeat;
+    background-position: bottom center;
+
+}
+
+section > div#form {
+    display: block;
+    padding: 10px;
+    
+}
+
+
+ 
+    
+       
+
+
+

@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+@media screen and (min-width:768px) {
+    
+
+
+* { font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+margin: 0px;
+padding: 0px;}
+
+
+body{ 
+background-color: rgb(219, 184, 226);    
+}
+
+section{ 
+    background-color: #f5f0ec;
+    
+    width: 60vw;
+    height: 400px;
+    margin: auto;
+    border-radius: 15px;
+    margin-top:15vh;
+    box-shadow: 2px 2px rgba(233, 119, 233, 0.493);
+  
+    
+}
+
+section > div#imagem{
+    float: left;
+    background:rgb(96, 62, 128) url(c32592ec5122a7bb962506fb5147ca14.jpg);
+    background-size: cover;
+    background-repeat: no-repeat; 
+    border-radius: 15px; 
+    width: 200px;
+    height: 400px;}
+}
+
+
+
+
